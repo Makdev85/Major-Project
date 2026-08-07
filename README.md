@@ -4,7 +4,7 @@ An AI-powered web application for detecting road damage from images using **YOLO
 
 Users can upload road images through the web interface, and the trained YOLO model analyzes the image and generates a detection result.
 
-🌐 **Live Demo:** https://ect-teod.onrender.com
+🌐 **Live Demo:** https://major-project-teod.onrender.com
 
 ---
 
@@ -117,7 +117,7 @@ The model processes uploaded road images and generates object detection results 
 
 Live Application
 
-🌐 https://major-project-teod.onrender.com
+🌐 ** https://major-project-teod.onrender.com
 
 📊 Application Pages
 Page	Purpose
@@ -137,7 +137,8 @@ Reduce the need for manual image inspection
 Integrate machine learning with a web application
 Deploy an AI-powered application to the cloud
 
-🔮 Future Improvements
+🔮 Future Improvements:
+
 📍 GPS-based damage location tracking
 🗺️ Road damage heatmaps
 📱 Mobile application
@@ -163,8 +164,7 @@ python-multipart==0.0.20
 👨‍💻 Author
 Mustafa
 
-GitHub:
-https://github.com/Makdev85
+
 
 ⭐ Support
 
