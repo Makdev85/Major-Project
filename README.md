@@ -77,7 +77,6 @@ The application combines:
 
 ## 📂 Project Structure
 
-```text
 Major-Project/
 │
 ├── app.py
@@ -102,6 +101,8 @@ Major-Project/
     ├── results/
     ├── uploads/
     └── static.css
+    
+---
 
 🤖 Machine Learning Model
 
@@ -113,8 +114,7 @@ The model is integrated with the Flask application using the Ultralytics YOLO fr
 
 The model processes uploaded road images and generates object detection results that are displayed through the web interface.
 
-
-
+---
 Live Application
 
 🌐 ** https://major-project-teod.onrender.com
@@ -136,7 +136,7 @@ Provide an easy-to-use web interface
 Reduce the need for manual image inspection
 Integrate machine learning with a web application
 Deploy an AI-powered application to the cloud
-
+---
 🔮 Future Improvements:
 
 📍 GPS-based damage location tracking
@@ -147,10 +147,12 @@ Deploy an AI-powered application to the cloud
 🔔 Automated maintenance alerts
 ☁️ Scalable AWS deployment
 🧠 Improved model accuracy with larger datasets
+
+---
+
 📦 Requirements
 
 The project uses:
-
 Flask==3.1.3
 flask-cors==6.0.2
 ultralytics==8.4.17
@@ -161,11 +163,11 @@ torch==2.10.0
 torchvision==0.25.0
 gunicorn==23.0.0
 python-multipart==0.0.20
+
+---
+
 👨‍💻 Author
 Mustafa
 
-
-
 ⭐ Support
-
 If you find this project useful, consider giving the repository a ⭐.
